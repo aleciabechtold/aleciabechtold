@@ -3,7 +3,7 @@ I am an undergraduate **electrical engineering** student at **USF**, with a back
 `Oxford Comma Truther`
 
 ### Education
-- I recieved my *Associate in Arts (AA)* from St. Petersburg College in 2021
+- I received my *Associate in Arts (AA)* from St. Petersburg College in 2021
 - I am on track to graduate in the spring of 2026 with my *Bachelor of Science in Electrical Engineering (BSEE)* from USF
 - My concentrations are:
   - *Communcations Systems*
@@ -12,14 +12,12 @@ I am an undergraduate **electrical engineering** student at **USF**, with a back
 
 ### My interests
 - **Embedded Systems**: designing projects with *Arduino Uno*
-- **Painting and Design**: using arcylic paint, and my background in various Adobe Creative Cloud suite programs to explore my creative expression
+- **Painting and Design**: using acrylic paint, and my background in various Adobe Creative Cloud suite programs to explore my creative expression
 - **Creative programming**: utilizing *Arduino* to create LED animations representative of falling rain, and wave-like motion
 
 ### Fun facts about me
-- I was born in Kansas, and currently live in Florida
+- I'm from Kansas, and currently live in Florida
 - My favorite musical artist is Taylor Swift, and my favorite song at the moment is *All Too Well (10 Minute-Version) (From The Vault)*
-- I am a Senior Certified Pharmacy Technician
-  - I became PTCB certified with less than 1 year of pharmacy experience
 
 ### Languages
 - C/C++ *intermediate*
