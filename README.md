@@ -11,7 +11,7 @@ I am an undergraduate **electrical engineering** student at **USF**, with a back
   - *Mechatronics, Robotics, and Embedded Systems*
 
 ### My interests
-- **Embedded Systems**: desiging projects with *Arduino Uno*
+- **Embedded Systems**: designing projects with *Arduino Uno*
 - **Painting and Design**: using arcylic paint, and my background in various Adobe Creative Cloud suite programs to explore my creative expression
 - **Creative programming**: utilizing *Arduino* to create LED animations representative of falling rain, and wave-like motion
 
