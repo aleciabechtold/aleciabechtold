@@ -15,10 +15,6 @@ I am an undergraduate **electrical engineering** student at **USF**, with a back
 - **Painting and Design**: using acrylic paint, and my background in various Adobe Creative Cloud suite programs to explore my creative expression
 - **Creative programming**: utilizing *Arduino* to create LED animations representative of falling rain, and wave-like motion
 
-### Fun facts about me
-- I'm from Kansas, and currently live in Florida
-- My favorite musical artist is Taylor Swift, and my favorite song at the moment is *All Too Well (10 Minute-Version) (From The Vault)*
-
 ### Languages
 - C/C++ *intermediate*
 - Python *intermediate*
@@ -28,7 +24,10 @@ I am an undergraduate **electrical engineering** student at **USF**, with a back
 - ***IEEE*** student member
 - ***IEEE Computer Science Branch*** student member
 - ***Society of Women Engineers*** student member
-  
+
+### Fun facts about me
+- I'm from Kansas, and currently live in Florida
+- My favorite musical artist is Taylor Swift, and my favorite song at the moment is *All Too Well (10 Minute-Version) (From The Vault)*
 <!---
 aleciabechtold/aleciabechtold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
