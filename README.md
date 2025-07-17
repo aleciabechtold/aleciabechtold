@@ -1,6 +1,6 @@
 ## Hi! My name is Alecia Bechtold *she/her*
-I am an undergraduate **electrical engineering** student at **USF**, with a background in art, and design. Here, I plan to share my personal projects which aim to highlight the intersection of my passion for engineering, and art.
-`Oxford Comma Truther`
+I am an undergraduate **electrical engineering** student at **USF**, with a background in art, and design. Here, I plan to share my academic projects, as well as my personal projects which aim to highlight the intersection of my passion for engineering, and art.
+
 
 ### Education
 - I received my *Associate in Arts (AA)* from St. Petersburg College in 2021
@@ -8,11 +8,11 @@ I am an undergraduate **electrical engineering** student at **USF**, with a back
 - My concentrations are:
   - *Communcations Systems*
   - *Wireless Circuits and Systems (RF)*
-  - *Mechatronics, Robotics, and Embedded Systems*
+  
 
 ### Languages
-- C/C++ *intermediate*
-- Python *intermediate*
+- C/C++ 
+- Embedded C
 - MATLAB/Simulink
 
 <!---
